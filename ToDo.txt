@@ -3,3 +3,4 @@
 [ ] Make Reservation at Dog Spa
 [ ] Pack Bag
 []  Buy new sunglasses
+[] Get nails done
