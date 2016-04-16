@@ -1,3 +1,5 @@
 [ ] Book Flight
 [ ] Book Hotel
 [ ] Make Reservation at Dog Spa
+[ ] Pack Bag
+[]  Buy new sunglasses
