@@ -1,6 +1,7 @@
 [ ] Book Flight
 [ ] Book Hotel
 [ ] Make Reservation at Dog Spa
+[] Book appointment with vet
 [ ] Pack Bag
 []  Buy new sunglasses
 [] Get nails done
