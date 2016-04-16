@@ -4,4 +4,3 @@
 [] Book appointment with vet
 [] Pack Bag
 []  Buy new sunglasses
-[] Go to bank
