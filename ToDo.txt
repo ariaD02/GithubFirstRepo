@@ -2,5 +2,11 @@
 [ ] Book Hotel from Hotel.com
 [] Make Reservation at Dog Spa
 [] Book appointment with vet
+<<<<<<< HEAD
 [] Pack Bag
 []  Buy new sunglasses
+=======
+[ ] Pack Bag
+[]  Buy new sunglasses
+[] Get nails done
+>>>>>>> fe7fcb8c20414be3aae4dac970037590afeaf4f5
